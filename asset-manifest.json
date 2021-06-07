@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/halo-gh-page/static/css/main.d024842e.chunk.css",
+    "main.js": "/halo-gh-page/static/js/main.c2c5e5dc.chunk.js",
+    "main.js.map": "/halo-gh-page/static/js/main.c2c5e5dc.chunk.js.map",
+    "runtime-main.js": "/halo-gh-page/static/js/runtime-main.5c38d7b5.js",
+    "runtime-main.js.map": "/halo-gh-page/static/js/runtime-main.5c38d7b5.js.map",
+    "static/js/2.c083b0d4.chunk.js": "/halo-gh-page/static/js/2.c083b0d4.chunk.js",
+    "static/js/2.c083b0d4.chunk.js.map": "/halo-gh-page/static/js/2.c083b0d4.chunk.js.map",
+    "index.html": "/halo-gh-page/index.html",
+    "static/css/main.d024842e.chunk.css.map": "/halo-gh-page/static/css/main.d024842e.chunk.css.map",
+    "static/js/2.c083b0d4.chunk.js.LICENSE.txt": "/halo-gh-page/static/js/2.c083b0d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c38d7b5.js",
+    "static/js/2.c083b0d4.chunk.js",
+    "static/css/main.d024842e.chunk.css",
+    "static/js/main.c2c5e5dc.chunk.js"
+  ]
+}
